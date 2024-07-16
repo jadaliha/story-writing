@@ -10,7 +10,7 @@ async def main():
     }
     </style>""",unsafe_allow_html=True)
 
-    st.title("App Information")
+    st.title("Mahdi App Information")
 
     st.write("This app is a quick example showing how you can use LangGraph Cloud in your applications. \
             Before using the app, I highly recommend reading through this info guide to gain a better understanding of how it works.")
